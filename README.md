@@ -5,3 +5,8 @@
 This plugin allows you to see the location of your team-mates into a HUD. It is usefull when the other don't have the locations or a script to share them installed. It uses the server `ag/locs` files. 
 It can be activated or deactivated using `/loc`
 
+It works on Half-Life and Adrenaline Gamer.
+
+## Preview
+
+![Preview](https://i.imgur.com/GOwWrrr.jpg)
